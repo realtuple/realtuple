@@ -1,6 +1,6 @@
 <h1 align="center">(Real) Tuple</h1>
 
-<div style="float: left">
+<div style="float: left;">
     <h2> What I like: </h2>
     <ul>
         <li>C and C++</li>
@@ -15,7 +15,7 @@
     </ul>
 </div>
 
-<div style="float: right">
+<div style="float: right;">
 <h2>Projects</h2>
 <ul>
     <li><i>none<i></li>
