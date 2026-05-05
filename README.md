@@ -4,7 +4,7 @@
     <h2> What I like: </h2>
     <ul>
         <li>C and C++</li>
-        <li>Make and Autotools</li>
+        <li>CMake</li>
         <li>GCC</li>
     </ul>
     <h2>What I dislike: </h2>
@@ -18,6 +18,6 @@
 <div>
 <h2>Projects</h2>
 <ul>
-    <li><i>none</i></li>
+    <li>Tsun programming language</li>
 </ul>
 </div>
