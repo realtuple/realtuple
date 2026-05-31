@@ -3,13 +3,13 @@
 <div>
     <h2> What I like: </h2>
     <ul>
-        <li>C and C++</li>
+        <li>C, C++, Python and rust</li>
         <li>CMake</li>
         <li>GCC</li>
     </ul>
     <h2>What I dislike: </h2>
     <ul>
-        <li>Python and rust</li>
+        <li>TS and JS</li>
         <li>Meson</li>
         <li>clang</li>
     </ul>
